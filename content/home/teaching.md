@@ -33,6 +33,7 @@ _Teaching Assistant_
 + Strategy and Warfare, POLSC 4412, Fall 2021
 + American National Government, POLSC 1100, Fall 2019, Spring 2020
 
-<h2> California State University, Fullerton</h2>
+<h2>California State University, Fullerton</h2>
+
 _Teaching Assistant_
 + American Government, POSC, 100 Spring 2018, Fall 2019
