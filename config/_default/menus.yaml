@@ -7,12 +7,12 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Research
-    url: '#research'
-    weight: 20
+  - name: Service
+    url: '#service'
+    weight: 30
   - name: Teaching
     url: '#teaching'
-    weight: 30
+    weight: 20
   - name: Contact Me
     url: '#contact'
     weight: 60
@@ -20,5 +20,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: Curriculum Vitae
-    url: https://jacobauthement.com/Authement_CV.pdf
+    url: https://will-acosta/Acosta_CV
     weight: 70
