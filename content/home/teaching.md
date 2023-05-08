@@ -12,7 +12,7 @@ title = "Teaching"
 
 
 # Order that this section will appear in.
-weight = 57
+weight = 30
 
 
 +++
