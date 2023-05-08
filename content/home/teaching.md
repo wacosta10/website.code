@@ -34,4 +34,5 @@ _Teaching Assistant_
 + American National Government, POLSC 1100, Fall 2019, Spring 2020
 
 <h2> California State University, Fullerton</h2>
-+ American Government, POSC 100 Spring 2018, Fall 2019
+_Teaching Assistant_
++ American Government, POSC, 100 Spring 2018, Fall 2019
