@@ -19,20 +19,19 @@ weight = 57
 <h2>University of Missouri</h2>
 
 _Future Courses (tentative)_
-+ American National Government, POLSC 1100, Spring 2024
-+ Politics of the American South, POLSC 4170, Fall 2023
-+ Politics of the American South, POLSC 4170, Summer 2023 (asynchronously)
++ American Foreign Policies, POLSC 4540, Fall 2023
 
 _Instructor_
-+ Program Assessment & Improvement, PUB_AF 4420, Spring 2023
-+ Politics of the American South, POLSC 4170, Fall 2022
++ Comparative Political Systems, POLSC 2700 , Spring 2023
++ Politics of International Law, POLSC 2410, Fall 2022
 
 _Lab Instructor_
-+ Introduction to Political Research, POLSC 3000, Spring 2021 and Fall 2021
-+ State Government, POLSC 2100, Fall 2020
++ Introduction to Political Research, POLSC 3000, Fall 2020
 
 _Teaching Assistant_
-+ History of American Legislatures, POLSC 4141, Spring 2022
-+ Congress and Legislative Policy, POLSC 4140, Spring 2022
-+ Strategy and Warfare, POLSC 4412, Spring 2020
-+ American National Government, POLSC 1100, Fall 2019
++ Politics and War, POLSC 4410, Spring 2022
++ Strategy and Warfare, POLSC 4412, Fall 2021
++ American National Government, POLSC 1100, Fall 2019, Spring 2020
+
+<h2> California State University, Fullerton</h2>
++ American Government, POSC 100 Spring 2018, Fall 2019
