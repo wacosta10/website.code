@@ -68,12 +68,15 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
----
+
 
 # _Hi! First things first, it's pronounced "Oh-Tee-Mon." Please, just call me Jacob._
 
 # I am a political science PhD candidate at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. Before moving to Missouri, I recieved my BA in Political Science from the [University of Louisiana at Lafayette](https://politicalscience.louisiana.edu) _(Geaux Cajuns!)_. Professionally, my research interests include American state politics, American political institutions, interest groups, and legislative expertise. My dissertation research focuses on the procedural expertise state legislatures, committees, and legislators accrue through time and how (or if) they replace this expertise in the face of shorter time horizons.
+# As a bit of non-academic background, I was born and raised in the small town of Chauvin, located on the bayous of South Louisiana. I have several years of experience working in both state and local politics in Louisiana (through the Louisiana State Legislature and Lafayette Consolidated Government, respectively). If I am not researching state legislatures, you can usually find me waxing nostalgic about Louisiana cuisine, scrolling on Twitter to find new sneakers to buy, or speedrunning a video game... or probably a combination of all three.
+
+
+
+---
 
 You can download a copy of my Curriculum Vitae {{< staticref "Acosta_CV.pdf" "newtab" >}}here{{< /staticref >}}.
-
-# As a bit of non-academic background, I was born and raised in the small town of Chauvin, located on the bayous of South Louisiana. I have several years of experience working in both state and local politics in Louisiana (through the Louisiana State Legislature and Lafayette Consolidated Government, respectively). If I am not researching state legislatures, you can usually find me waxing nostalgic about Louisiana cuisine, scrolling on Twitter to find new sneakers to buy, or speedrunning a video game... or probably a combination of all three.
