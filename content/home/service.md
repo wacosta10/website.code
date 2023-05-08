@@ -25,8 +25,8 @@ weight = 20
 <h2>Office of Participatory Democracy</h2>
 
 
-Coach Model United Nations, Fall 2019, Spring 2020
+Coach, Model United Nations, Fall 2019, Spring 2020
 
-Coach Debate Team, Fall 2019, Spring 2020
+Coach, Debate Team, Fall 2019, Spring 2020
 
 
