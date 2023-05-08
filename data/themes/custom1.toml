@@ -5,10 +5,10 @@ name = "custom1"
 light = true
 
 # Primary
-primary = "#487498"
+primary = "#6d92d6"
 
 # Menu
-menu_primary = "#487498"
+menu_primary = "#6d92d6"
 menu_text = "#0B2161"
 menu_text_active = "#045FB4"
 menu_title = "#0B2161"
