@@ -7,7 +7,7 @@ active = true
 date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Research"
+title = "Service"
 # subtitle = ""
 
 
@@ -22,12 +22,11 @@ weight = 20
 
 
 +++
-<h2>Editor-Reviewed Book Chapters</h2>
+<h2>Office of Participatory Democracy</h2>
 
-<div style="padding-left: 4em; text-indent: -4em;">
 
-<p>Anstett, Robert, & Authement, Jacob. 2022. <a href="https://www.jacobauthement.com/publication/AnstettAuthement2022a">Comparing and Contrasting the U.S. and Missouri Constitutions</a> in <u>Readings in American Politics, 3rd ed.</u> edited by James W. Endersby. W.W. Norton & Company. </p>
+Coach Model United Nations, Fall 2019, Spring 2020
 
-<p>Anstett, Robert, & Authement, Jacob. 2022. <a href="https://www.jacobauthement.com/publication/AnstettAuthement2022b">Comparing and Contrasting Political Institutions of the State of Missouri, the United States, and Other States</a> in <u>Readings in American Politics, 3rd ed.</u> edited by James W. Endersby. W.W. Norton & Company. </p>
+Coach Debate Team, Fall 2019, Spring 2020
 
-</div>
+
